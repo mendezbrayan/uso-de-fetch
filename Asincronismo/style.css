@@ -1,0 +1,30 @@
+
+body{
+    background-size: contain;
+    background-image: url(./assets/img/pokemon-wallpapers-22.jpg);
+    
+}
+.fondo1{
+width: 100%;
+
+}
+.fondo{
+  background-image: url(./assets/img/poke.avif);
+    width: 290px;
+    height: 200px;
+    background-size: cover;
+    margin-bottom: 15px;
+
+    
+}
+
+.estilo{
+    width: 800px;
+    height: 200px;
+    background-color: cadetblue;
+    border-radius: 10px;
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    box-shadow: 5px 5px 10px 5px rgb(24, 23, 23);
+}
